@@ -1,7 +1,6 @@
 {
   "name": "html_css",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
@@ -12,5 +11,14 @@
   "dependencies": {
     "express": "^4.17.3",
     "y": "^0.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiQuispe/MercadoLiebre-Final.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CamiQuispe/MercadoLiebre-Final/issues"
+  },
+  "homepage": "https://github.com/CamiQuispe/MercadoLiebre-Final#readme",
+  "description": ""
 }
